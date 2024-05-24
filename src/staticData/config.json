@@ -48,11 +48,21 @@
         "Updated on": "03/16/2024 06:24:38",
         "channel_name": "STAR Plus HD",
         "channel_genre": "Entertainment",
-        "channel_ekey": "eyJhbGciOiJIUzIakNiIsInRdcCIfssIkpXVCIsImtpZCIfssImjYxMjcdNjMyMDEwIniisszIbffeaMHdozChwwVbdissWfUHAwvPHPakvYhGPKfzakNDLjddg",
         "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
-        "channel_url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd",
-        "pssh": null,
-        "licurl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000007"
+        "channel_url": "http://jiotv.ddns.net/newcode/tp.mpd?id=8",
+         "key": [
+            "e6a10573102555c38e6ecef1b19fba8c:1c3e7ccd5bb6cb46d8be93c80ffa2eaf"
+        ],
+        "channel_key": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "HD58zVu2y0bYvpPID\/ourw",
+                    "kid": "5qEFcxAlVcOObs7xsZ+6jA"
+                }
+            ],
+            "type": "temporary"
+        }
     },
     {
         "channel_id": "121",
